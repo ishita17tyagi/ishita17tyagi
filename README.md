@@ -18,7 +18,7 @@ Backend Engineer building scalable distributed systems, cloud infrastructure, an
 
 - 📂 **About This GitHub:** This is my personal engineering portfolio where I build production-inspired backend projects, experiment with distributed systems, and document my learnings through detailed READMEs, architecture notes, and implementation walkthroughs.
 
-- 🏢 **Production Experience:** Most of my production engineering work was during my internship at **Razorpay**. You can explore my work GitHub profile **[here](https://github.com/ishitatyagi-rzp)**.
+- 🏢 **Previous Work:** Most of my production engineering work was during my internship at **Razorpay**. You can explore my work GitHub profile **[here](https://github.com/ishitatyagi-rzp)**.
 
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ShsF1Op61I9zIYhdD9ssOoMj5qS4gaUe/view?usp=drivesdk)
 
