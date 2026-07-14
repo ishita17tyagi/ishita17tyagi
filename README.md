@@ -24,19 +24,12 @@ Backend Engineer building scalable distributed systems, cloud infrastructure, an
 
 ---
 
-### ⭐ Featured Projects
+## ⭐ Featured Projects
 
-<p align="center">
-<a href="https://github.com/ishitatyagi/distributed-rate-limiter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ishitatyagi&repo=distributed-rate-limiter&theme=dark" />
-</a>
-<a href="https://github.com/ishitatyagi/tooling-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ishitatyagi&repo=tooling-intelligence&theme=dark" />
-</a>
-</p>
-
-- ⚙️ **Distributed Rate Limiter** - a Go-based rate limiter exploring distributed coordination patterns.
-- 🤖 **Tooling Intelligence** - developer tooling focused on automating and simplifying engineering workflows.
+| Project | Description |
+|---------|-------------|
+| ⚙️ **[Distributed Rate Limiter](https://github.com/ishita17tyagi/Distributed-Rate-Limiter)** | Redis-backed distributed rate limiter built with Go, Redis, Lua, Docker, and Nginx. |
+| 🤖 **[Tooling Intelligence](https://github.com/ishita17tyagi/tooling-intelligence)** | AI-powered SaaS research, verification, and analytics platform with deterministic validation. |
 
 ---
 
